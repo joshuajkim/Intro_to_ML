@@ -2,7 +2,7 @@
 혼자 공부하는 머신러닝+딥러닝_박해선_한빛미디어_2020
 
 Chapter 01. My First Machine Learning
-  01-1. AI, ML, and DL
+-- 01-1. AI, ML, and DL
   01-2. Google CoLab & Jupyter Notebook
   01-3. Market & ML
 
